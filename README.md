@@ -1,5 +1,6 @@
 # MPI-fast
 Faster MPI optimization of nested loops.
+Returns the shortest distance between nodes in a matrix
 # Usage:
 mpiexec -n <processes> .<filename> <matrixsize>
 
